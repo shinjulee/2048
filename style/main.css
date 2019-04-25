@@ -349,7 +349,8 @@ hr {
     background-size: cover;
   .tile.tile-64 .tile-inner {
     background: url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/1377041_3687289516938_672313628_n.jpg?_nc_cat=103&_nc_ht=scontent.ftpe8-2.fna&oh=68b12317a2311c1cbda10af218efe959&oe=5D6BE6B5"); 
-    background-size: cover; 
+    background-size: cover;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-128 .tile-inner {
     background: url("https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/421936_1846356894773_1916534153_n.jpg?_nc_cat=108&_nc_ht=scontent.ftpe8-1.fna&oh=41b64edd457d11f8ba8bc789646e5d12&oe=5D2FC5A1");
         background-size: cover;
