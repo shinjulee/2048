@@ -344,15 +344,13 @@ hr {
     background: url("https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/312532_1547172335346_463028276_n.jpg?_nc_cat=107&_nc_ht=scontent.ftpe8-3.fna&oh=b51a68302d19160e5d15ff711b515c7c&oe=5D698D88"); 
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-
   .tile.tile-32 .tile-inner {
     background: url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/303276_1583835091892_1889659384_n.jpg?_nc_cat=103&_nc_ht=scontent.ftpe8-2.fna&oh=5f0f3838c622d19eb462268df01d9cb4&oe=5D7307B4"); 
     background-size: cover;
   .tile.tile-64 .tile-inner {
     background: url("https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/384113_1671587525648_1446489022_n.jpg?_nc_cat=106&_nc_ht=scontent.ftpe8-3.fna&oh=2dd87f3fe8a4cdbdd0b9e7a9b638d8a2&oe=5D7652A2"); 
-    background-size: cover;
+    background-size: cover;}
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
     background: url("https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/421936_1846356894773_1916534153_n.jpg?_nc_cat=108&_nc_ht=scontent.ftpe8-1.fna&oh=41b64edd457d11f8ba8bc789646e5d12&oe=5D2FC5A1");
         background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
