@@ -339,9 +339,12 @@ hr {
   .tile.tile-8 .tile-inner {
     background: url("https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/228169_1363238457114_4049098_n.jpg?_nc_cat=111&_nc_ht=scontent.ftpe8-3.fna&oh=51b142f0094fafc0e15a160d856ed5c6&oe=5D32DB24"); }
         background-size: cover;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-16 .tile-inner {
     background: url("https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/312532_1547172335346_463028276_n.jpg?_nc_cat=107&_nc_ht=scontent.ftpe8-3.fna&oh=b51a68302d19160e5d15ff711b515c7c&oe=5D698D88"); }
     background-size: cover;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+
   .tile.tile-32 .tile-inner {
     background: url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/303276_1583835091892_1889659384_n.jpg?_nc_cat=103&_nc_ht=scontent.ftpe8-2.fna&oh=5f0f3838c622d19eb462268df01d9cb4&oe=5D7307B4"); }
     background-size: cover;
